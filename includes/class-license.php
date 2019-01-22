@@ -30,7 +30,7 @@ if ( ! class_exists( 'WS_Theme_Wizard_License' ) ) {
 		public $api            = 'https://woostroid.zemez.io/';
 		public $item_id        = 9;
 		public $theme_link     = 'https://woostroid.zemez.io/free-download/woostroid2.zip';
-		public $theme_slug     = 'monstroid2';
+		public $theme_slug     = 'woostroid2';
 
 		/**
 		 * Error message holder
