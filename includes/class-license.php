@@ -27,9 +27,9 @@ if ( ! class_exists( 'WS_Theme_Wizard_License' ) ) {
 		 * Config properties
 		 */
 		public $license_option = 'jet_theme_core_license';
-		public $api            = 'https://wostroid.zemez.io/';
+		public $api            = 'https://woostroid.zemez.io/';
 		public $item_id        = 9;
-		public $theme_link     = 'https://wostroid.zemez.io/free-download/monstroid2.zip';
+		public $theme_link     = 'https://woostroid.zemez.io/free-download/woostroid2.zip';
 		public $theme_slug     = 'monstroid2';
 
 		/**
