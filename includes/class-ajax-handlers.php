@@ -166,8 +166,8 @@ if ( ! class_exists( 'WS_Theme_Wizard_Ajax_Handlers' ) ) {
 			}
 
 			update_option( ws_theme_wizard()->settings['options']['child_data'], array(
-				'TextDomain' => 'monstroid2-child',
-				'ThemeName'  => 'Monstroid2 Child',
+				'TextDomain' => 'woostroid2-child',
+				'ThemeName'  => 'Woostroid2 Child',
 			) );
 
 			/**
@@ -230,8 +230,8 @@ if ( ! class_exists( 'WS_Theme_Wizard_Ajax_Handlers' ) ) {
 			}
 
 			update_option( ws_theme_wizard()->settings['options']['parent_data'], array(
-				'TextDomain' => 'monstroid2',
-				'ThemeName'  => 'Monstroid2',
+				'TextDomain' => 'woostroid2',
+				'ThemeName'  => 'Woostroid2',
 			) );
 
 			/**

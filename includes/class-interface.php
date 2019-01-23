@@ -34,8 +34,8 @@ if ( ! class_exists( 'WS_Theme_Wizard_Interface' ) ) {
 		 */
 		public function register_page() {
 			add_management_page(
-				esc_html__( 'M2 Theme Wizard', 'ws-theme-wizard' ),
-				esc_html__( 'M2 Theme Wizard', 'ws-theme-wizard' ),
+				esc_html__( 'Woostroid2 Theme Wizard', 'ws-theme-wizard' ),
+				esc_html__( 'Woostroid2 Theme Wizard', 'ws-theme-wizard' ),
 				'manage_options',
 				ws_theme_wizard()->slug(),
 				array( $this, 'render_page' )
